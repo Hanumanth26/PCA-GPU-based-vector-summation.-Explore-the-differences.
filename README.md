@@ -496,9 +496,18 @@ int main(int argc, char **argv)
 
 block.x = 1023
 
+![PCAi](https://user-images.githubusercontent.com/118348224/236833752-12cdc708-286d-434b-989b-07fe023150d5.png)
+
+
 block.x = 1024
 
+![PCAii](https://user-images.githubusercontent.com/118348224/236833799-18ea165e-dea6-4c05-8db6-b09aff5d134a.png)
+
+
 block.x = 256
+
+![PCAiii](https://user-images.githubusercontent.com/118348224/236833843-57ec1bbb-8f39-4c0c-a0aa-e89f9f00f57a.png)
+
 
 Host-based array summation vs GPU-based vector summation
 
